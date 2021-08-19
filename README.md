@@ -1,1 +1,1 @@
-This is a student project made for the Data Mining course of Télécom Paris, 2020-2021.
+This is a student project made for a Data Mining course.
